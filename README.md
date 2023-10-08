@@ -1,7 +1,5 @@
 # Discord Rendering Display Status
 
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/morkev/discord-render-status/total"> ![](https://img.shields.io/appveyor/build/gruntjs/grunt) <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/morkev/discord-render-status">
-
 This Python script automatically updates your Discord status based on the Windows application you're currently running. Additionally, it includes a timer to display the elapsed time since you started using the application.
 
 ## Supported Programs
@@ -58,4 +56,4 @@ Inspired by some of my engineering friends that use NX and CAD on a daily basis.
 
 ## Support
 
-For questions, issues, or suggestions, please refer to the "[Issues](https://github.com/morkev/discord-render-status/issues)" section. If you'd like to see a different logo/title being displayed in a certain application, or if you'd like to add a software that is not included above, please feel free to comment there.
+For questions, issues, or suggestions, please refer to the "[Issues](https://github.com/morkev/discord-render-status/issues)" section. If you'd like to see a different logo/title being displayed for certain application, or if you'd like to add a software that is not included above, please feel free to comment there.
