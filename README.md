@@ -1,4 +1,8 @@
-# Discord Rendering Display Status
+<p align="center">
+  <img src="https://github.com/morkev/discord-render-status/assets/83437383/db3cd45d-3083-49a3-a5ff-2344229f4722" alt="logo" width="200" />
+</p>
+
+# Discord Rendering Status
 
 This Python script automatically updates your Discord status based on the Windows application you're currently running. Additionally, it includes a timer to display the elapsed time since you started using the application.
 
